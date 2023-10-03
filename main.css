@@ -4,19 +4,20 @@ body {
 
 h1 {
     text-align: center;
-    position: sticky;
 }
 
 .navbar {
     font-family: Arial, Helvetica, sans-serif;
 }
 
-.inStock_items {
-    display: block;
-    padding: 5px;
+.stockImg {
+   padding-top: 25px;
+   padding-bottom: 25px;
 }
 
-.inStock_items img {
-    margin-top: 25px;
-    margin-bottom: 25px;
+.storeInteriorImg {
+    width: 100%;
+    height: auto;
 }
+
+
